@@ -1,5 +1,7 @@
 Yummr (A Yelp Clone)
 
+Deplotment Link: https://project4-yummr-frontend.herokuapp.com/
+
 Your project idea
 My idea is a Yelp clone that will have full CRUD capabilities, as well as multiple API integrations. Users will be able to search for local restaurants using their zip code and create a favorites list. Additional capabilities will include a Google API that will be able to show locations on a map..
 
